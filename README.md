@@ -12,9 +12,12 @@ The WIT project website is built with:
 - CSS
 - Vanilla JavaScript
 
-# Acknowledgements
+# Team Members
 The WIT project team consisted of four members: 
 - Bethan James 
 - Lashae Munroe 
 - Han O'Connor  
 - Julie Thomas
+
+# Contact
+Contact link: https://womenintechproject.netlify.app/contact.html
