@@ -14,10 +14,10 @@ The WIT project website is built with:
 
 # Team Members
 The WIT project team consisted of four members: 
-- Bethan James 
-- Lashae Munroe 
-- Han O'Connor  
-- Julie Thomas
+- Bethan James <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="15" height="15"> BNJ101
+- Lashae Munroe <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="15" height="15"> itzshxe
+- Han O'Connor  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="15" height="15"> hanoconnor
+- Julie Thomas <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="15" height="15"> juliethomas82
 
 # Contact
 Contact link: https://womenintechproject.netlify.app/contact.html
